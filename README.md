@@ -1,13 +1,12 @@
 # splash_demo
 
 ## assets:
-![splashscreen](mages\screenshots\Screenshot 2025-11-07 121213.png)
-![splashscreen](images\screenshots\Screenshot 2025-11-07 121235.png)
-![splashscreen](mages\screenshots\Screenshot 2025-11-07 121213.png)
-![splashscreen](mages\screenshots\Screenshot 2025-11-07 121318.png)
-![splashscreen](mages\screenshots\Screenshot 2025-11-07 121343.png)
-![splashscreen](mages\screenshots\Screenshot 2025-11-07 121213.png)
-![splashscreen](images\screenshots\Screenshot 2025-11-07 121403.png)
+![splashscreen](images/screenshots/forgotpasswordscreen.png)
+![splashscreen](images/screenshots/screen2.png)
+![splashscreen](images/screenshots/registerscreen.png)
+![splashscreen](images/screenshots/loginscreen.png)
+![splashscreen](images/screenshots/screen3.png)
+![splashscreen](images/screenshots/sreen1.png)
 A new Flutter project.
 
 ## Getting Started
